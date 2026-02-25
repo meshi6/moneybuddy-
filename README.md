@@ -13,6 +13,7 @@ For educational purposes only.
 
 <img width="1064" height="810" alt="Screenshot 2026-02-25 at 1 43 09 PM" src="https://github.com/user-attachments/assets/87e784b7-8adb-4448-9a18-25667887104e" />
 
+![moneybuddy](https://github.com/user-attachments/assets/fcd8876d-e9bf-437e-8470-04479f253491)
 
 
 **What AI owns**
@@ -39,6 +40,8 @@ Voice integration and embedded calculators. Further ahead, a connection to a rob
 React (single file, no build step)
 Claude API via Anthropic
 Vanilla CSS
+
+
 
 **Disclaimer**
 MoneyBuddy is a prototype for educational and demonstration purposes. It does not constitute financial advice. Always consult a licensed financial advisor before making investment decisions.
