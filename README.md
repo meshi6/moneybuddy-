@@ -5,10 +5,11 @@ MoneyBuddy is a conversational AI coach that meets people in that messy, pre-dec
 For educational purposes only.
 
 **Running the demo**
-1. Go to claude.ai and start a new conversation
-2. Click the paperclip icon and upload MoneyBuddy.jsx
-3. Type Render this as a React artifact and hit send
-4. Claude renders it as a live interactive app in the Artifacts panel
+1. Download https://github.com/meshi6/moneybuddy-/blob/main/MoneyBuddy.jsx
+2. Go to claude.ai and start a new conversation
+3. Click the paperclip icon and upload MoneyBuddy.jsx
+4. Type Render this as a React artifact and hit send
+5. Claude renders it as a live interactive app in the Artifacts panel
 
 **What AI owns**
 Parsing ambiguous natural language into financial parameters
