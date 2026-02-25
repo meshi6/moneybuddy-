@@ -1,4 +1,4 @@
-# moneybuddy💸
+# MoneyBuddy💸
 **An AI-native financial coaching tool for Canadians**
 Vibe financial advice is already here. Canadians are asking ChatGPT about RRSPs, TFSAs, and investment strategies and getting answers from general-purpose AI with no knowledge of Canadian tax law and zero accountability. The behaviour has shifted. The question is whether that gap gets filled by something purpose-built or left to tools that were never designed for it.
 MoneyBuddy is a conversational AI coach that meets people in that messy, pre-decision moment. Describe your financial situation in plain English and MoneyBuddy figures out what accounts, tax treatments, and strategies actually apply to you. No forms. No dropdowns. No jargon.
