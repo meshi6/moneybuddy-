@@ -11,6 +11,9 @@ For educational purposes only.
 4. Type Render this as a React artifact and hit send
 5. Claude renders it as a live interactive app in the Artifacts panel
 
+<img width="1064" height="810" alt="Screenshot 2026-02-25 at 1 43 09 PM" src="https://github.com/user-attachments/assets/87e784b7-8adb-4448-9a18-25667887104e" />
+
+
 **What AI owns**
 Parsing ambiguous natural language into financial parameters
 Identifying which accounts and vehicles are relevant
